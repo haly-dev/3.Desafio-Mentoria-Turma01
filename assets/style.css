@@ -1,0 +1,40 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #FCBFB7;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.avatar{
+  width: 15.125rem;
+  height: 14.3125rem;
+  border-radius: 3.125rem;
+}
+
+.lista{
+  display: flex;
+}
+
+.titulo__subtitulo__lista{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cabecalho{
+  display: flex;
+  align-items: center;
+}
+
