@@ -25,7 +25,7 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 ### Construído com
 
 - HTML5
-- CSS
+- CSS3
 - FIGMA
 
 ## Autor [@haly-dev](https://www.linkedin.com/in/halysson-franca/)
