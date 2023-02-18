@@ -1,6 +1,6 @@
-# Projeto-Apeperia
+# Projeto-Page-de-Links
 
-# DesenvolveGB-Semanas-de-Figma | Programa Desenvolve GB - Alura 
+# DesenvolveGB-Semanas-de-Figma+HTML+CSS | Programa Desenvolve GB - Alura 
 
 Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo Boticário
 
@@ -20,8 +20,7 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 - Video da pagina:
 
-- 
-
+- https://user-images.githubusercontent.com/107888695/219826630-bac60ac4-5549-4e62-880f-41640d0c98bf.mp4
 
 ### Construído com
 
